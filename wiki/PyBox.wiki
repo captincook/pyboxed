@@ -1,4 +1,4 @@
-#summary name origin
+#summary explanation of the PyBox idea.
 
 = PyBox =
 
